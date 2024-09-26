@@ -1,2 +1,2 @@
 console.long('console.js');
-console.log('version12');
+console.log('version13');
